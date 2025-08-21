@@ -18,7 +18,7 @@ See your current mouse coordinates in real-time along with your screen resolutio
 
 ## Screenshot
 
-![MouseTrap Screenshot](screenshot.png)
+![MouseTrap Screenshot](https://kephost.net/p/MjA0ODkzOQ.png)
 
 ---
 
